@@ -43,6 +43,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 ## 📈 Statistics
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=github-esadakman&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=github-esadakman&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-esadakman&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en" alt="My GitHub Stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=chartreuse-light&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact" alt="languages" width="50%" > </p>
+
