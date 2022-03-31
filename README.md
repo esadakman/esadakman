@@ -1,4 +1,4 @@
-## Hi there 👋  NAME is Esad. (LOADING...)
+## Hi there 👋  My is Esad. (LOADING...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esad-akman-375811230/) 
 <a href="https://GİTHUB-esadakman.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=GİTHUB-esadakman" alt="visitor counter"/>
@@ -13,18 +13,13 @@ I prefer React & React Native for web/mobile front-end development.
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/esad-akman-375811230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/esad-akman-375811230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  
-<img src="https://user-images.githubusercontent.com/94930605/160834121-9010f1e6-3725-4c4e-8977-856e1682e0d4.png" alt="gitHub" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vscode" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" alt="slack" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://www.vhv.rs/dpng/d/545-5452076_jira-logo-jira-icon-png-transparent-png-download.png" alt="linux" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94930605/160834121-9010f1e6-3725-4c4e-8977-856e1682e0d4.png" alt="gitHub" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="vscode" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/94930605/160258720-2a39e2f4-cb61-4b1a-9303-db050ffaa003.png" alt="slack" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" alt="jira" width="100" height="40"/> </a> </p>
+
 
 
 
