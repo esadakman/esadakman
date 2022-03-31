@@ -13,7 +13,7 @@ I prefer React & React Native for web/mobile front-end development.
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/esad-akman-375811230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/esad-akman-375811230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
