@@ -11,10 +11,7 @@
 - 💬 Ask me about anything that you want to learn
 
 - ✨ You can reach me via :  <a href="https://www.linkedin.com/in/esad-akman-375811230" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
-- and also you can send me an e-mail: <a href="esadd26@gmail.com" target="_blank">  <img src="https://similarpng.com/gmail-logo-design-on-transparent-background-png/" target="_blank" alt="Gmail" height="20"/>
-
-
-alt="Linkedin" height="20"/></a>esadd26@gmail.com
+- and also you can send me an e-mail: esadd26@gmail.com
 
 
 ## 🚀 Skills
