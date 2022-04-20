@@ -6,7 +6,7 @@
 
 ### What I'm using ? 🛠
 
-- 🛠 Python, HTML5, CSS3, Git, GitHub
+- 🛠 Python, HTML5, CSS3, SQL, Git, GitHub
 
 - 💬 Ask me about anything that you want to learn
 
