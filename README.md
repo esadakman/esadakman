@@ -4,7 +4,7 @@
 <a href="https://github.com/esadakman" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" height="28.5"/>
 <!-- <p align="left">  </p> -->
 
-# This is the place where I opensource stuff
+This is the place where I opensource stuff
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 
