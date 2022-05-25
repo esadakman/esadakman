@@ -8,7 +8,7 @@ This is the place where I opensource stuff
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 
-- 🌱 &nbsp;I’m currently learning JavaScript
+- 🌱 &nbsp;I’m currently learning JavaScript <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25"/>
 
 - 💬 Ask me about anything that you want to learn,
 
