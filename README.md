@@ -17,7 +17,7 @@
 
 - ⚡ &nbsp;Fun fact: I :heart: Star Wars and PC Gaming
 
-## 🚀 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+##  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools🚀</b> 
 
 
 
