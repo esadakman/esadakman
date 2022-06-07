@@ -32,11 +32,11 @@ This is the place where I opensource stuff
 <a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="./logos/slack_logo.png" alt="slack" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a>  <a href="https://www.atlassian.com/software/jira/free" target="_blank" rel="noreferrer"> <img src="./logos/jira_logo.png" alt="jira" width="40" height="40"/> </a> </p>
 
 ## 📈 Statistics
-
+      
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en" alt="My GitHub Stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=chartreuse-light&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" > </p>
       
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="100%"/>
