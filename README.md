@@ -41,9 +41,9 @@ This is the place where I opensource stuff
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" > </p>
  
 <br><br><br>      
-<p align="center">
+<!-- <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> -->
   
   
  
