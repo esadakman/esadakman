@@ -40,9 +40,9 @@ This is the place where I opensource stuff
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> -->  </p>
  
-<br><br><br>      
+<!-- <br><br><br>       -->
  <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="90%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="90%" height="200"/>
 </p>
       
       
@@ -61,4 +61,6 @@ This is the place where I opensource stuff
 -->
   
 <!--   <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2> -->
+      
+<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  -->
  
