@@ -35,10 +35,10 @@ This is the place where I opensource stuff
 
 ## 📈 Statistics
       
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> </p> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> -->  </p>
  
 <br><br><br>      
  <p align="center">
@@ -60,5 +60,5 @@ This is the place where I opensource stuff
 </div>
 -->
   
-  <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<!--   <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2> -->
  
