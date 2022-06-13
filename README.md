@@ -42,7 +42,7 @@ This is the place where I opensource stuff
  
 <br><br><br>      
  <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="90%"/>
 </p>
       
       
