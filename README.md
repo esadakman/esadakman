@@ -1,10 +1,11 @@
 <!-- ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
-## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad
+<!-- ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
 
+## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" align="right" valign="center" height="28.5"/>
 <!-- ## Frontend Devoloper Trainee from Turkey  -->
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esadakman/)
-<a href="https://github.com/esadakman" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" height="28.5"/>
+<!-- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esadakman/)
+<a href="https://github.com/esadakman" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" height="28.5"/> -->
 <!-- <p align="left">  </p> -->
 
 This is the place where I opensource stuff
