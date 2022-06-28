@@ -12,7 +12,7 @@ This is the place where I opensource stuff
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 
-- 🌱 &nbsp;I’m currently learning React &nbsp;<img  src="./logos/react_logo.png" alt="javascript" width="25" height="25"/>
+- 🌱 &nbsp;I’m currently learning React &nbsp;<img  src="./logos/react_logo.png" alt="javascript" width="20" height="20"/>
 
 - 💬 Ask me about anything that you want to learn, 🤔
 
