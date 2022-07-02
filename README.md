@@ -38,14 +38,10 @@ This is the place where I opensource stuff
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> -->  </p>
  
  ------------
- 
  <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="90%" height="200"/>
-</p>
-      
-<table >
+ <table >
   <tr>
-      <th colspan="6">MY PROJECTS</th>
+      <th colspan="12">MY PROJECTS</th>
   </tr>
   <tr>
       <th>HTML-CSS</th>
@@ -99,44 +95,51 @@ This is the place where I opensource stuff
   <td><a href="https://github.com/esadakman/flex_grid_exercise" target="_blank">Flex Grid Exercise</a></td>
     <td></td>
     <td><a href="https://github.com/esadakman/shopping_cart" target="_blank">Checkout Page</a></td>
-    <td> </td>
+    <td><a href=" " target="_blank"> </a></td>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/udemy-landing-page" target="_blank">Udemy Landing Page</a></td>
     <td></td>
     <td><a href="https://github.com/esadakman/digital_clock" target="_blank">Digital Clock</a></td>
-    <td> </td>
+    <td><a href=" " target="_blank"> </a></td>
   </tr>
 
   <tr>  
     <td><a href="https://github.com/esadakman/google_landing_page" target="_blank">Google Landing Page</a></td>
     <td></td>
     <td><a href="https://github.com/esadakman/stopWatch" target="_blank">Stopwatch</a></td>
-    <td> </td>
-
+    <td><a href=" " target="_blank"> </a></td>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/netflix-clone" target="_blank">Netflix Clone</a></td>
     <td> </td>
     <td><a href="https://github.com/esadakman/Interactive-Rating-Component" target="_blank" rel="noreferrer">Interactive Rating Component</a></td>
+    <td><a href=" " target="_blank"> </a></td>
 
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/CSS_Tea_Cup" target="_blank">CSS Tea Cup</a></td>
-    <td></td> 
-    <td></td> 
+    <td><a href=" " target="_blank"> </a></td>
+    <td><a href=" " target="_blank"> </a></td>
+    <td><a href=" " target="_blank"> </a></td>
+
   </tr>
   <tr>
-      <td><a href="https://github.com/esadakman/Survey_Form" target="_blank">Survey Form</a></td>
+    <td><a href="https://github.com/esadakman/Survey_Form" target="_blank">Survey Form</a></td>
     <td> </td>
     <td> </td>
+    <td><a href=" " target="_blank"> </a></td>
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/Voltran" target="_blank">Voltran Project</a></td>
     <td> </td>
     <td> </td>
+    <td><a href=" " target="_blank"> </a></td>
   </tr>
 
 </table>
+</p>
 
- 
+
