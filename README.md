@@ -2,11 +2,6 @@
 <!-- ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
 
 ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" align="right" valign="center" height="28.5"/>
-<!-- ## Frontend Devoloper Trainee from Turkey  -->
-
-<!-- [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esadakman/)
-<a href="https://github.com/esadakman" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" height="28.5"/> -->
-<!-- <p align="left">  </p> -->
 
 This is the place where I opensource stuff
 
@@ -42,27 +37,106 @@ This is the place where I opensource stuff
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> -->  </p>
  
-<!-- <br><br><br>       -->
+ ------------
+ 
  <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=esadakman&theme=tokyonight-dark&bg_color=20232a&hide_border=true" width="90%" height="200"/>
 </p>
       
-      
-<!--       <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div> -->
+<table >
+  <tr>
+      <th colspan="6">MY PROJECTS</th>
+  </tr>
+  <tr>
+      <th>HTML-CSS</th>
+      <th>Bootstrap-SASS</th>  
+      <th>javaScript</th>  
+      <th>React</th>  
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/checkout_form_responsive" target="_blank">Checkout Project</a></td>
+    <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places(React)</a></td>
+    <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
+    <td> </td>
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
-  
-<!--   <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2> -->
-      
-<!-- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  -->
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/four_card_feature" target="_blank">Four Card Project</a></td>
+    <td><a href="https://github.com/esadakman/todo_list_project" target="_blank">Todo-List(JS)</a></td>
+    <td><a href="https://github.com/esadakman/github_api" target="_blank" rel="noreferrer">Github API</a></td>
+    <td><a href="https://github.com/esadakman/task-tracker-react" target="_blank">Task Tracker</a></td>
+
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/starwars_parallax" target="_blank">Star Wars Parallax </a></td>
+    <td><a href="https://github.com/esadakman/bootstrap-landing-page" target="_blank">Bootstrap Landing Page</a></td>
+    <td><a href="https://github.com/esadakman/flag_app" target="_blank">Flag-App</a></td>
+    <td><a href="https://github.com/esadakman/language-cards-react" target="_blank">Language Cards</a></td>
+
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/lightsaber" target="_blank" rel="noreferrer">Luke's Lightsaber</a></td>
+    <td><a href="https://github.com/esadakman/Sass-Portfolio" target="_blank">SASS Portfolio</a></td>
+    <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User Generator</a></td>
+    <td><a href="https://github.com/esadakman/projeTourWithFetch" target="_blank">Tour with Fetch </a></td>
+
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/navbar_exercise" target="_blank">Navbar Exercise</a></td> 
+    <td><a href="https://github.com/esadakman/bootstrap_breakpoints_navbar" target="_blank" rel="noreferrer">Bootstrap Breakpoints Navbar</a></td> 
+    <td><a href="https://github.com/esadakman/ios_calculator" target="_blank">IOS Calculator</a></td>
+  <td><a href="https://github.com/esadakman/react-digital-clock" target="_blank">Digital Clock</a></td>
+
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/media_query_exercise_1" target="_blank">Flexbox Media Query</a></td>
+    <td></td>
+    <td><a href="https://github.com/esadakman/guess-the-number" target="_blank">Guess the Number </a></td>
+    <td><a href="https://github.com/esadakman/stopWatch-react" target="_blank">Stop Watch</a></td>
+
+  </tr>
+  <tr>
+  <td><a href="https://github.com/esadakman/flex_grid_exercise" target="_blank">Flex Grid Exercise</a></td>
+    <td></td>
+    <td><a href="https://github.com/esadakman/shopping_cart" target="_blank">Checkout Page</a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/udemy-landing-page" target="_blank">Udemy Landing Page</a></td>
+    <td></td>
+    <td><a href="https://github.com/esadakman/digital_clock" target="_blank">Digital Clock</a></td>
+    <td> </td>
+  </tr>
+
+  <tr>  
+    <td><a href="https://github.com/esadakman/google_landing_page" target="_blank">Google Landing Page</a></td>
+    <td></td>
+    <td><a href="https://github.com/esadakman/stopWatch" target="_blank">Stopwatch</a></td>
+    <td> </td>
+
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/netflix-clone" target="_blank">Netflix Clone</a></td>
+    <td> </td>
+    <td><a href="https://github.com/esadakman/Interactive-Rating-Component" target="_blank" rel="noreferrer">Interactive Rating Component</a></td>
+
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/CSS_Tea_Cup" target="_blank">CSS Tea Cup</a></td>
+    <td></td> 
+    <td></td> 
+  </tr>
+  <tr>
+      <td><a href="https://github.com/esadakman/Survey_Form" target="_blank">Survey Form</a></td>
+    <td> </td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/esadakman/Voltran" target="_blank">Voltran Project</a></td>
+    <td> </td>
+    <td> </td>
+  </tr>
+
+</table>
+
  
