@@ -41,7 +41,7 @@ This is the place where I opensource stuff
  <p align="center">
  <table >
   <tr>
-      <th colspan="12">MY PROJECTS</th>
+      <th colspan="6">MY PROJECTS</th>
   </tr>
   <tr>
       <th>HTML-CSS</th>
@@ -53,14 +53,14 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/checkout_form_responsive" target="_blank">Checkout Project</a></td>
     <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places(React)</a></td>
     <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
-    <td> </td>
+    <td><a href="https://github.com/esadakman/task-tracker-react" target="_blank">Task Tracker</a></td>
 
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/four_card_feature" target="_blank">Four Card Project</a></td>
     <td><a href="https://github.com/esadakman/todo_list_project" target="_blank">Todo-List(JS)</a></td>
     <td><a href="https://github.com/esadakman/github_api" target="_blank" rel="noreferrer">Github API</a></td>
-    <td><a href="https://github.com/esadakman/task-tracker-react" target="_blank">Task Tracker</a></td>
+    <td><a href="https://github.com/esadakman/random-user-react" target="_blank">Random User</a></td>
 
   </tr>
   <tr>
@@ -73,7 +73,7 @@ This is the place where I opensource stuff
   <tr>
     <td><a href="https://github.com/esadakman/lightsaber" target="_blank" rel="noreferrer">Luke's Lightsaber</a></td>
     <td><a href="https://github.com/esadakman/Sass-Portfolio" target="_blank">SASS Portfolio</a></td>
-    <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User </a></td>
+    <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User</a></td>
     <td><a href="https://github.com/esadakman/projeTourWithFetch" target="_blank">Tour with Fetch </a></td>
 
   </tr>
@@ -99,7 +99,7 @@ This is the place where I opensource stuff
     
   </tr>
   <tr>
-    <td><a href="https://github.com/esadakman/udemy-landing-page" target="_blank">Udemy Portfolio</a></td>
+    <td><a href="https://github.com/esadakman/udemy-landing-page" target="_blank">Udemy Landing Page</a></td>
     <td></td>
     <td><a href="https://github.com/esadakman/digital_clock" target="_blank">Digital Clock</a></td>
     <td><a href=" " target="_blank"> </a></td>
