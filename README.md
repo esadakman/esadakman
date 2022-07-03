@@ -73,7 +73,7 @@ This is the place where I opensource stuff
   <tr>
     <td><a href="https://github.com/esadakman/lightsaber" target="_blank" rel="noreferrer">Luke's Lightsaber</a></td>
     <td><a href="https://github.com/esadakman/Sass-Portfolio" target="_blank">SASS Portfolio</a></td>
-    <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User Generator</a></td>
+    <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User </a></td>
     <td><a href="https://github.com/esadakman/projeTourWithFetch" target="_blank">Tour with Fetch </a></td>
 
   </tr>
@@ -115,7 +115,7 @@ This is the place where I opensource stuff
   <tr>
     <td><a href="https://github.com/esadakman/netflix-clone" target="_blank">Netflix Clone</a></td>
     <td> </td>
-    <td><a href="https://github.com/esadakman/Interactive-Rating-Component" target="_blank" rel="noreferrer">Interactive Rating Component</a></td>
+    <td><a href="https://github.com/esadakman/Interactive-Rating-Component" target="_blank" rel="noreferrer">Interactive Rating</a></td>
     <td><a href=" " target="_blank"> </a></td>
 
   </tr>
