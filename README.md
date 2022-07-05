@@ -102,7 +102,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/udemy-landing-page" target="_blank">Udemy Landing Page</a></td>
     <td></td>
     <td><a href="https://github.com/esadakman/digital_clock" target="_blank">Digital Clock</a></td>
-    <td><a href=" " target="_blank"> </a></td>
+    <td><a href="https://github.com/esadakman/tabs-project" target="_blank"> </a>Tabs Project</td>
   </tr>
 
   <tr>  
