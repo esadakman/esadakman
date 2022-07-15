@@ -22,16 +22,24 @@ This is the place where I opensource stuff
 
 
 <p > 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <a href="https://www.javascript.org" target="_blank" rel="noreferrer"><img  src="./logos/js_logo.png" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="./logos/react_logo.png" alt="react" width="40" height="40"/>  </a> 
-    <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img  src="./logos/sass_logo.png" alt="sass" width="40" height="40"/> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img  src="./logos/bootstrap.logo.png" alt="bootstrap" width="40" height="40"/>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="styled_components.png" alt="styled_components" width="40" height="40"/>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="mui.png" alt="mui" width="40" height="40"/>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="./logos/github.png.png" alt="gitHub" width="40" height="40"/> </a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="./logos/vscode_logo.png" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="./logos/slack_logo.png" alt="slack" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> </a>  <a href="https://www.atlassian.com/software/jira/free" target="_blank" rel="noreferrer"> <img src="./logos/jira_logo.png" alt="jira" width="40" height="40"/> </a> </p>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="Python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.javascript.org" target="_blank" rel="noreferrer"><img  src="./logos/js_logo.png" alt="javascript" width="40" height="40"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="./logos/react_logo.png" alt="react" width="40" height="40"/>  </a> 
+<a href="https://html.com" target="_blank" rel="noreferrer"><img src="HTML5.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="CSS3.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img  src="./logos/sass_logo.png" alt="sass" width="40" height="40"/> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img  src="./logos/bootstrap.logo.png" alt="bootstrap" width="40" height="40"/>  
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a>
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="styled_components.png" alt="styled_components" width="40" height="40"/> </a> 
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="mui.png" alt="mui" width="40" height="40"/> </a> 
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="linux.png" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="git.svg" alt="git" width="40" height="40"/> </a>   
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="./logos/github.png.png" alt="gitHub" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="./logos/vscode_logo.png" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://slack.com" target="_blank" rel="noreferrer"> <img src="./logos/slack_logo.png" alt="slack" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> </a>  
+<a href="https://www.atlassian.com/software/jira/free" target="_blank" rel="noreferrer"> <img src="./logos/jira_logo.png" alt="jira" width="40" height="40"/> </a> 
+</p>
 
 ## 📈 Statistics
       
