@@ -22,7 +22,7 @@ This is the place where I opensource stuff
 
 
 <p > 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="Python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="./logos/Python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.javascript.org" target="_blank" rel="noreferrer"><img  src="./logos/js_logo.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="./logos/react_logo.png" alt="react" width="40" height="40"/>  </a> 
 <a href="https://html.com" target="_blank" rel="noreferrer"><img src="HTML5.svg" alt="html5" width="40" height="40"/> </a> 
