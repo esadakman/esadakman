@@ -50,7 +50,7 @@ This is the place where I opensource stuff
  
  ------------
  
- <p align="center">
+<p align="center">
  <table >
   <tr>
       <th colspan="6">MY PROJECTS</th>
@@ -65,27 +65,28 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/checkout_form_responsive" target="_blank">Checkout Project</a></td>
     <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places(React)</a></td>
     <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
-    <td><a href="https://github.com/esadakman/recipe-app" target="_blank">Recipe App</a></td>
+    <td><a href="https://github.com/esadakman/movie-app-firebase" target="_blank">Movie App</a></td>
 
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/four_card_feature" target="_blank">Four Card Project</a></td>
     <td><a href="https://github.com/esadakman/todo_list_project" target="_blank">Todo-List(JS)</a></td>
     <td><a href="https://github.com/esadakman/github_api" target="_blank" rel="noreferrer">Github API</a></td>
-    <td><a href="https://github.com/esadakman/task-tracker-react" target="_blank">Task Tracker</a></td>
+    <td><a href="https://github.com/esadakman/recipe-app" target="_blank">Recipe App</a></td>
 
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/starwars_parallax" target="_blank">Star Wars Parallax </a></td>
     <td><a href="https://github.com/esadakman/bootstrap-landing-page" target="_blank">Bootstrap Landing Page</a></td>
     <td><a href="https://github.com/esadakman/flag_app" target="_blank">Flag-App</a></td>
-    <td><a href="https://github.com/esadakman/api-tutorial-project" target="_blank">Api Tutorial </a></td>
+    <td><a href="https://github.com/esadakman/task-tracker-react" target="_blank">Task Tracker</a></td>
+
   </tr>
   <tr>
     <td><a href="https://github.com/esadakman/lightsaber" target="_blank" rel="noreferrer">Luke's Lightsaber</a></td>
     <td><a href="https://github.com/esadakman/Sass-Portfolio" target="_blank">SASS Portfolio</a></td>
     <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User</a></td>
-    
+    <td><a href="https://github.com/esadakman/api-tutorial-project" target="_blank">Api Tutorial </a></td>
 
   </tr>
   <tr>
@@ -109,9 +110,6 @@ This is the place where I opensource stuff
     <td></td>
     <td><a href="https://github.com/esadakman/shopping_cart" target="_blank">Checkout Page</a></td>
     <td><a href="https://github.com/esadakman/random-user-app-2" target="_blank">Random-User 2</a></td>
-    
-
-    
 
   </tr>
   <tr>
@@ -138,7 +136,6 @@ This is the place where I opensource stuff
     <td> </td>
     <td><a href="https://github.com/esadakman/Interactive-Rating-Component" target="_blank" rel="noreferrer">Interactive Rating</a></td>
     <td><a href="https://github.com/esadakman/stopWatch-react" target="_blank">Stop Watch</a></td>
-    
 
   </tr>
   <tr>
@@ -152,7 +149,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/Survey_Form" target="_blank">Survey Form</a></td>
     <td> </td>
     <td></td>
-    <td><a href="https://github.com/esadakman/tabs-project" target="_blank">Tabs Project</a></td> 
+    <td><a href="https://github.com/esadakman/tabs-project" target="_blank">Tabs Project</a></td>
 
   </tr>
   <tr>
