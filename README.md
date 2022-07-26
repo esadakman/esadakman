@@ -25,6 +25,7 @@ This is the place where I opensource stuff
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="./logos/Python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.javascript.org" target="_blank" rel="noreferrer"><img  src="./logos/js_logo.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="./logos/react_logo.png" alt="react" width="40" height="40"/>  </a> 
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img  src="./logos/redux.png" alt="react" width="40" height="40"/>  </a> 
 <a href="https://html.com" target="_blank" rel="noreferrer"><img src="./logos/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="./logos/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"> <img  src="./logos/sass_logo.png" alt="sass" width="40" height="40"/> 
@@ -32,6 +33,7 @@ This is the place where I opensource stuff
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> </a>
 <a href="https://styled-components.com/" rel="noreferrer"> <img src="./logos/styled_components.png" alt="styled_components" width="40" height="40"/> </a> 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="./logos/mui.png" alt="mui" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="./logos/firebase.png" alt="mui" width="40" height="40"/> </a> 
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="./logos/linux.png" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="./logos/git.svg" alt="git" width="40" height="40"/> </a>   
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="./logos/github.png.png" alt="gitHub" width="40" height="40"/> </a> 
