@@ -1,7 +1,7 @@
 <!-- ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
 <!-- ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
 
-## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" align="right" valign="center" height="28.5"/>
+## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a> My name is Esad <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" align="right" valign="center" height="28.5"/>
 
 This is the place where I opensource stuff
 
@@ -11,15 +11,13 @@ This is the place where I opensource stuff
 
 - 💬 Ask me about anything that you want to learn, 🤔
 
-- ✨ You can reach me via :  <a href="https://www.linkedin.com/in/esadakman/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
+- ✨ You can reach me via : <a href="https://www.linkedin.com/in/esadakman/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
 
 - 📫 and also you can send me an e-mail: <a href="mailto:esadd26@gmail.com">esadd26@gmail.com</a>
 
 - ⚡ &nbsp;Fun fact: I :heart: Star Wars and PC Gaming
 
-##  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b> 
-
-
+## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
 
 <p > 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="./logos/Python.svg" alt="python" width="40" height="40"/> </a> 
@@ -44,7 +42,7 @@ This is the place where I opensource stuff
 </p>
 
 ## 📈 Statistics
-      
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
@@ -69,7 +67,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places(React)</a></td>
     <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
     <td  ><a href="https://github.com/esadakman/movie-app-firebase" target="_blank">Movie App</a></td>
-    <td><a href=" " target="_blank"></a></td>
+    <td><a href="https://github.com/esadakman/FireBlog-Milestone" target="_blank">Fire Blog</a></td>
     
   </tr>
   
@@ -181,4 +179,3 @@ This is the place where I opensource stuff
 
 </table>
 </p>
- 
