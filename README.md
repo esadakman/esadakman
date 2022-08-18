@@ -7,7 +7,7 @@ This is the place where I opensource stuff
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 
-- 🌱 &nbsp;I’m currently learning React &nbsp;<img  src="./logos/react_logo.png" alt="javascript" width="20" height="20"/>
+- 🌱 &nbsp;I’m currently learning Django &nbsp;<img  src="./logos/django.jpg" alt="django" width="20" height="20"/>
 
 - 💬 Ask me about anything that you want to learn, 🤔
 
@@ -19,6 +19,7 @@ This is the place where I opensource stuff
 
 ## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
 
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img  src="./logos/django.jpg" alt="django" width="40" height="40"/> </a>  -->
 <p > 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="./logos/Python.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.javascript.org" target="_blank" rel="noreferrer"><img  src="./logos/js_logo.png" alt="javascript" width="40" height="40"/> </a>
