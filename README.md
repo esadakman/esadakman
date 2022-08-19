@@ -111,7 +111,7 @@ This is the place where I opensource stuff
     <td></td>
     <td><a href="https://github.com/esadakman/guess-the-number" target="_blank">Guess the Number </a></td>
     <td><a href="https://github.com/esadakman/projeTourWithFetch" target="_blank">Tour with Fetch </a></td>
-    <td><a href="" target="_blank"> </a></td>
+    <td><a href="https://github.com/esadakman/fake-tweet-generator" target="_blank">Fake Tweet Generator</a></td>
   </tr>
   
   <tr>
