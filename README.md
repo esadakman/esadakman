@@ -65,7 +65,7 @@ This is the place where I opensource stuff
   
   <tr>
     <td><a href="https://github.com/esadakman/checkout_form_responsive" target="_blank">Checkout Project</a></td>
-    <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places(React)</a></td>
+    <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places (React)</a></td>
     <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
     <td  ><a href="https://github.com/esadakman/movie-app-firebase" target="_blank">Movie App</a></td>
     <td><a href="https://github.com/esadakman/FireBlog-Milestone" target="_blank">Fire Blog</a></td>
