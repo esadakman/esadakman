@@ -48,11 +48,10 @@ This is the place where I opensource stuff
 <img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> -->  </p>
- 
- ------------
- 
-<p align="center">
- <table >
+
+
+<p align='center'>
+<table>
   <tr>
       <th colspan="6">MY PROJECTS</th>
   </tr>
@@ -62,14 +61,12 @@ This is the place where I opensource stuff
       <th>javaScript</th>  
       <th colspan=2 >React</th>    
   </tr>
-  
   <tr>
     <td><a href="https://github.com/esadakman/checkout_form_responsive" target="_blank">Checkout Project</a></td>
     <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places(React)</a></td>
     <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
     <td  ><a href="https://github.com/esadakman/movie-app-firebase" target="_blank">Movie App</a></td>
-    <td><a href="https://github.com/esadakman/FireBlog-Milestone" target="_blank">Fire Blog</a></td>
-    
+    <td><a href="https://github.com/esadakman/FireBlog-Milestone" target="_blank">Fire Blog</a></td> 
   </tr>
   
   <tr>
@@ -180,3 +177,12 @@ This is the place where I opensource stuff
 
 </table>
 </p>
+
+---
+<h2 align="center">Spotify Playing 🎧</h2>
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215d3sm5u7debtsq4sywdrvwa&cover_image=true&theme=natemoo-re&bar_color=1dd31d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215d3sm5u7debtsq4sywdrvwa&redirect=false)
+
+</div>
