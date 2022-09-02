@@ -179,8 +179,7 @@ This is the place where I opensource stuff
 </p>
 
 ---
-<h2 align="center">Spotify Playing 🎧</h2>
-
+### <p align="center">Spotify Playing 🎧</p>
 <div align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215d3sm5u7debtsq4sywdrvwa&cover_image=true&theme=natemoo-re&bar_color=1dd31d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215d3sm5u7debtsq4sywdrvwa&redirect=false)
