@@ -182,6 +182,10 @@ This is the place where I opensource stuff
 ### <p align="center">Spotify Playing 🎧</p>
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=215d3sm5u7debtsq4sywdrvwa&cover_image=true&theme=natemoo-re&bar_color=1dd31d&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=215d3sm5u7debtsq4sywdrvwa&redirect=false)
+
+
+[![Spotify](https://spotify-now-playing-esadakman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/215d3sm5u7debtsq4sywdrvwa)
 
 </div>
+ 
+
