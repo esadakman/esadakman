@@ -89,7 +89,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/flag_app" target="_blank">Flag-App</a></td>
     <td><a href="https://github.com/esadakman/redux_todo_exercise" target="_blank">Redux Todo</a></td>
     <td><a href="https://github.com/esadakman/youtube_clone" target="_blank">Youtube Clone <br> (Not Finished)</a></td>
-    <td><a href="https://github.com/esadakman/django_todo" target="_blank">Student Form</a></td>
+    <td><a href="https://esadakman-django-auth.herokuapp.com/" target="_blank">DJ-Auth</a></td>
   </tr>
   
   <tr>
@@ -97,7 +97,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User</a></td>
     <td><a href="https://github.com/esadakman/mui-example" target="_blank">MUI Practise </a></td>
     <td><a href="https://github.com/esadakman/api-tutorial-project" target="_blank">API Tutorial </a></td>
-    <td><a href="" target="_blank"> </a></td>    
+    <td><a href="https://github.com/esadakman/django_crud_project" target="_blank">Student Form</a></td>
   </tr>
   
   <tr>
@@ -202,7 +202,7 @@ This is the place where I opensource stuff
 ----
 <div align="center">
 
- <h2 style="font-weight:bold">Spotify Playing 🎧</h2>
+## Spotify Playing 🎧
     
   [![Spotify](https://spotify-now-playing-esadakman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/215d3sm5u7debtsq4sywdrvwa)
   
