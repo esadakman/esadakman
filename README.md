@@ -88,8 +88,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/starwars_parallax" target="_blank">Star Wars Parallax </a></td>
     <td><a href="https://github.com/esadakman/flag_app" target="_blank">Flag-App</a></td>
     <td><a href="https://github.com/esadakman/redux_todo_exercise" target="_blank">Redux Todo</a></td>
-    <td><a href="https://github.com/esadakman/youtube_clone" target="_blank">Youtube Clone
-    (Not Finished)</a></td>
+    <td><a href="https://github.com/esadakman/youtube_clone" target="_blank">Youtube Clone <br> (Not Finished)</a></td>
     <td><a href="https://github.com/esadakman/django_todo" target="_blank">Student Form</a></td>
   </tr>
   
@@ -203,7 +202,7 @@ This is the place where I opensource stuff
 ----
 <div align="center">
 
- <p style="font-size:2rem; font-weight:bold">Spotify Playing 🎧</p>
+ <h2 style="font-weight:bold">Spotify Playing 🎧</h2>
     
   [![Spotify](https://spotify-now-playing-esadakman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/215d3sm5u7debtsq4sywdrvwa)
   
