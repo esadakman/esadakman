@@ -1,5 +1,6 @@
 <!-- ## Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
 <!-- ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a>  My name is Esad -->
+<!-- - 💬 Ask me about anything that you want to learn, 🤔 -->
 
 ## <a href="https://youtu.be/frszEJb0aOo?t=4" ><span style="color:#000099"> Hello there</span></a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25"></a> My name is Esad <img src="https://komarev.com/ghpvc/?username=esadakman" alt="visitor counter" align="right" valign="center" height="28.5"/>
 
@@ -9,7 +10,7 @@ This is the place where I opensource stuff
 
 - 🌱 &nbsp;I’m currently learning Django &nbsp;<img  src="./logos/django.jpg" alt="django" width="20" height="20"/>
 
-- 💬 Ask me about anything that you want to learn, 🤔
+<!-- - 💬 Ask me about anything that you want to learn, 🤔 -->
 
 - ✨ You can reach me via : <a href="https://www.linkedin.com/in/esadakman/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Linkedin" height="20"/></a>
 
@@ -19,9 +20,9 @@ This is the place where I opensource stuff
 
 ## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
 
-<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img  src="./logos/django.jpg" alt="django" width="40" height="40"/> </a>  -->
 <p > 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="./logos/Python.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img  src="./logos/django.jpg" alt="django" width="40" height="40"/> </a> 
 <a href="https://www.javascript.org" target="_blank" rel="noreferrer"><img  src="./logos/js_logo.png" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="./logos/react_logo.png" alt="react" width="40" height="40"/>  </a> 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img  src="./logos/redux.png" alt="react" width="40" height="40"/>  </a> 
@@ -47,7 +48,7 @@ This is the place where I opensource stuff
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px"> -->  </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px">  </p> -->
 
 
 <p align='center'>
@@ -66,7 +67,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/weatherApp" target="_blank">Weather App</a></td>
     <td ><a href="https://github.com/esadakman/movie-app-firebase" target="_blank">Movie App</a></td>
     <td><a href="https://github.com/esadakman/FireBlog-Milestone" target="_blank">Fire Blog</a></td> 
-    <td><a href="" target="_blank"> </a></td>
+    <td><a href="https://github.com/esadakman/django-blog-app" target="_blank">Django Blog</a></td>
   </tr> 
   <tr>
     <td><a href="https://github.com/esadakman/bootstrap-landing-page" target="_blank">Bootstrap Landing Page</a></td> 
@@ -88,8 +89,8 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/starwars_parallax" target="_blank">Star Wars Parallax </a></td>
     <td><a href="https://github.com/esadakman/flag_app" target="_blank">Flag-App</a></td>
     <td><a href="https://github.com/esadakman/redux_todo_exercise" target="_blank">Redux Todo</a></td>
-    <td><a href="https://github.com/esadakman/youtube_clone" target="_blank">Youtube Clone <br> (Not Finished)</a></td>
-    <td><a href="https://esadakman-django-auth.herokuapp.com/" target="_blank">DJ-Auth</a></td>
+    <td><a href="https://github.com/esadakman/youtube_clone" target="_blank">Youtube Clone</a></td>
+    <td><a href="https://github.com/esadakman/django-auth" target="_blank">DJ-Auth</a></td>
   </tr>
   
   <tr>
@@ -202,7 +203,7 @@ This is the place where I opensource stuff
 ----
 <div align="center">
 
-## Spotify Playing 🎧
+## __Spotify Playing__ 🎧
     
   [![Spotify](https://spotify-now-playing-esadakman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/215d3sm5u7debtsq4sywdrvwa)
   
