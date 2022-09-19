@@ -18,7 +18,7 @@ This is the place where I opensource stuff
 
 - ⚡ &nbsp;Fun fact: I :heart: Star Wars and PC Gaming
 
-## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
+## <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>  
 
 <p > 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="./logos/Python.svg" alt="python" width="40" height="40"/> </a> 
@@ -43,12 +43,14 @@ This is the place where I opensource stuff
 <a href="https://www.atlassian.com/software/jira/free" target="_blank" rel="noreferrer"> <img src="./logos/jira_logo.png" alt="jira" width="40" height="40"/> </a> 
 </p>
 
-## 📈 Statistics
+<hr>
+<!-- ## 📈 Statistics -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=esadakman&show_icons=true&locale=en&theme=tokyonight" alt="My GitHub Stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=esadakman&theme=tokyonight&border=61dafb&hide_border=true" alt="my commit status" width="49%" /> </p> -->
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=esadakman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="languages" width="50%" height:"163px">  </p> -->
+<!-- <p align="center"> <img src="https://www.codewars.com/users/DeSaad/badges/large" alt="languages" width="50%" height:"163px">  </p> -->
 
 
 <p align='center'>
@@ -105,7 +107,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/bootstrap_breakpoints_navbar" target="_blank" rel="noreferrer">Bootstrap Breakpoints Navbar</a></td>
     <td><a href="https://github.com/esadakman/ios_calculator" target="_blank">IOS Calculator</a></td> 
     <td><a href="https://github.com/esadakman/fake-tweet-generator" target="_blank">Fake Tweet Generator</a></td>
-    <td><a href="" target="_blank"> </a></td>
+    <td><a href="https://github.com/esadakman/axios-router-project" target="_blank">Axios-Router</a></td>
     <td><a href="" target="_blank"> </a></td>
   </tr>
   
