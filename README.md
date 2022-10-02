@@ -36,7 +36,7 @@ This is the place where I opensource stuff
  
 ---
 
-<p align='center'>
+<div align='center'>
 <table>
   <tr>
       <th colspan="5">MY PROJECTS</th>
@@ -99,7 +99,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/guess-the-number" target="_blank">Guess the Number </a></td>
     <td><a href="https://github.com/esadakman/holidaysApp" target="_blank">Holiday App</a></td>
     <td><a href="https://github.com/esadakman/django_crud_project" target="_blank">Student Form</a></td>
-    <td><a href="https://github.com/esadakman/react-crud-redux" target="_blank">Redux Crud</a></td>
+    <td><a href="" target="_blank"></a></td>
   </tr>
   
   <tr>
@@ -183,7 +183,7 @@ This is the place where I opensource stuff
 
 
 </table>
-</p>
+</div>
 
 <!-- ---- -->
 <div align="center">
