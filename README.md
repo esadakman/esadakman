@@ -92,7 +92,6 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/fake-tweet-generator" target="_blank">Fake Tweet Generator</a></td>
     <td><a href="https://github.com/esadakman/redux_todo_exercise" target="_blank">Redux Todo</a></td>
     <td><a href="https://github.com/esadakman/django-auth" target="_blank">DJ-Auth</a></td>
-    <td><a href="" target="_blank"> </a></td>
   </tr>
   
   <tr>
@@ -101,7 +100,6 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/holidaysApp" target="_blank">Holiday App</a></td>
     <td><a href="https://github.com/esadakman/django_crud_project" target="_blank">Student Form</a></td>
     <td><a href="https://github.com/esadakman/react-crud-redux" target="_blank">Redux Crud</a></td>
-    <td><a href="" target="_blank"> </a></td>
   </tr>
   
   <tr>
