@@ -59,7 +59,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/todo_list_project" target="_blank">Todo-List(JS)</a></td>
     <td><a href="https://github.com/esadakman/recipe-app" target="_blank">Recipe App</a></td>
     <td><a href="https://github.com/esadakman/esadakman.github.io" target="_blank">Portfolio </a></td>
-    <td><a href="https://github.com/esadakman/django-flight-app" target="_blank">Flight App (DRF)</a></td>
+    <td><a href="https://github.com/esadakman/django-stock-app" target="_blank">Stock App (DRF)</a></td>
   </tr>
   
   <tr>
@@ -67,7 +67,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/github_api" target="_blank" rel="noreferrer">Github API</a></td>
     <td><a href="https://github.com/esadakman/task-tracker-react" target="_blank">Task Tracker</a></td>
     <td><a href="https://github.com/esadakman/firecontact-app" target="_blank">FireContact</a></td>
-    <td><a href="https://github.com/esadakman/django-quiz-app" target="_blank">Quiz App (DRF)</a></td>
+    <td><a href="https://github.com/esadakman/django-flight-app" target="_blank">Flight App (DRF)</a></td>
   </tr>
   
   <tr>
@@ -75,7 +75,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/flag_app" target="_blank">Flag-App</a></td>
     <td><a href="https://github.com/esadakman/axios-router-project" target="_blank">Axios-Router</a></td>
     <td><a href="https://github.com/esadakman/youtube_clone" target="_blank">Youtube Clone</a></td>
-    <td><a href="https://github.com/esadakman/django-pizza-app" target="_blank">Pizza App</a></td>
+    <td><a href="https://github.com/esadakman/django-quiz-app" target="_blank">Quiz App (DRF)</a></td>
   </tr>
   
   <tr>
@@ -83,7 +83,7 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/randomUserGenerator" target="_blank">Random User</a></td>
     <td><a href="https://github.com/esadakman/mui-example" target="_blank">MUI Practise </a></td>
     <td><a href="https://github.com/esadakman/api-tutorial-project" target="_blank">API Tutorial </a></td>
-    <td><a href="https://github.com/esadakman/django_todo" target="_blank">Todo App</a></td>
+    <td><a href="https://github.com/esadakman/django-auth-todo" target="_blank">Todo Auth</a></td>
   </tr>
   
   <tr>
@@ -91,15 +91,15 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/ios_calculator" target="_blank">IOS Calculator</a></td> 
     <td><a href="https://github.com/esadakman/fake-tweet-generator" target="_blank">Fake Tweet Generator</a></td>
     <td><a href="https://github.com/esadakman/redux_todo_exercise" target="_blank">Redux Todo</a></td>
-    <td><a href="https://github.com/esadakman/django-auth" target="_blank">DJ-Auth</a></td>
+    <td><a href="https://github.com/esadakman/django_todo" target="_blank">Todo App</a></td>
   </tr>
   
   <tr>
     <td><a href="https://github.com/esadakman/lightsaber" target="_blank" rel="noreferrer">Luke's Lightsaber</a></td>
     <td><a href="https://github.com/esadakman/guess-the-number" target="_blank">Guess the Number </a></td>
     <td><a href="https://github.com/esadakman/holidaysApp" target="_blank">Holiday App</a></td>
-    <td><a href="https://github.com/esadakman/django_crud_project" target="_blank">Student Form</a></td>
-    <td><a href="" target="_blank"></a></td>
+    <td><a href="https://github.com/esadakman/react-crud-redux" target="_blank">Redux Crud</a></td>
+    <td><a href="https://github.com/esadakman/django-pizza-app" target="_blank">Pizza App</a></td>
   </tr>
   
   <tr>
@@ -107,15 +107,15 @@ This is the place where I opensource stuff
     <td><a href="https://github.com/esadakman/shopping_cart" target="_blank">Checkout Page</a></td>
     <td><a href="https://github.com/esadakman/tour-places-react" target="_blank">Tour Places</a></td>
     <td><a href="https://github.com/esadakman/react-github-finder" target="_blank">Github Finder</a></td>
-    <td><a href="" target="_blank"> </a></td>
+    <td><a href="https://github.com/esadakman/django-auth" target="_blank">Django Auth</a></td>
   </tr>
 
   <tr>  
     <td><a href="https://github.com/esadakman/media_query_exercise_1" target="_blank">Flexbox Media Query</a></td>
     <td><a href="https://github.com/esadakman/digital_clock" target="_blank">Digital Clock</a></td>
     <td><a href="https://github.com/esadakman/projeTourWithFetch" target="_blank">Tour with Fetch </a></td>
-    <td><a href="" target="_blank"> </a></td> 
-    <td><a href="" target="_blank"> </a></td>
+    <td><a href="" target="_blank"> </a></td>  
+    <td><a href="https://github.com/esadakman/django_crud_project" target="_blank">Student Form</a></td> 
   </tr>
   
   <tr>
