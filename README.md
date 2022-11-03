@@ -50,15 +50,15 @@ This is the place where I opensource stuff
   </tr>
 
   <tr>
-    <td><a href="https://github.com/esadakman/checkout_form_responsive" >Checkout Project</a></td>
+    <td><a href="https://github.com/esadakman/html-checkout-form" >Checkout Page</a></td>
     <td><a href="https://github.com/esadakman/javascript-weather-app" >Weather App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-fireblog" >Blog App (Firebase)</a></td> 
-    <td><a href="https://github.com/esadakman/esadakman.github.io" >My Portfolio </a></td>
+    <td><a href="https://github.com/esadakman/esadakman.github.io" >Portfolio Page </a></td>
     <td><a href="https://github.com/esadakman/django-blog-app" >Django Blog</a></td>
   </tr>
 
   <tr>
-    <td><a href="https://github.com/esadakman/bootstrap-landing-page" >Bootstrap Landing Page</a></td> 
+    <td><a href="https://github.com/esadakman/html-bootstrap-landing-page" >Bootstrap Landing Page</a></td> 
     <td><a href="https://github.com/esadakman/javascript-todo-app" >To-Do App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-movie-app" >Movie App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-personnel-app-frontend" >Personnel App (Frontend)</a></td>
@@ -66,8 +66,8 @@ This is the place where I opensource stuff
   </tr>
   
   <tr>
-    <td><a href="https://github.com/esadakman/Sass-Portfolio" >SASS Portfolio</a></td>
-    <td><a href="httpsgithub.comesadakmanjavascript-github-searcher"  rel="noreferrer">Github Searcher</a></td>
+    <td><a href="https://github.com/esadakman/html-sass-portfolio-project" >SASS Portfolio</a></td>
+    <td><a href="https://github.com/esadakman/javascript-github-searcher" >Github Searcher</a></td>
     <td><a href="https://github.com/esadakman/reactjs-fireContact" >Contact App (Firebase)</a></td>
     <td><a href="https://github.com/esadakman/reactjs-recipe-app" >Recipe App</a></td>
     <td><a href="https://github.com/esadakman/django-stock-app" >Stock App (DRF)</a></td>
