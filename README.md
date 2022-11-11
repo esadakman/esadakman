@@ -23,7 +23,8 @@ This is the place where I opensource stuff
 <a href="https://html.com" rel="noreferrer"><img src="./logos/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="noreferrer"> <img src="./logos/CSS3.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com/" rel="noreferrer"> <img  src="./logos/sass_logo.png" alt="sass" width="40" height="40"/> 
-<a href="https://getbootstrap.com/" rel="noreferrer"> <img  src="./logos/bootstrap.logo.png" alt="bootstrap" width="40" height="40"/>  
+<a href="https://getbootstrap.com/" rel="noreferrer"> <img  src="./logos/bootstrap.png" alt="bootstrap" width="40" height="40"/>  
+<a href="https://tailwindcss.com/" rel="noreferrer"> <img  src="./logos/tailwind.png" alt="bootstrap" width="40" height="40"/>  
 <a href="https://git-scm.com/" rel="noreferrer"> </a>
 <a href="https://styled-components.com/" rel="noreferrer"> <img src="./logos/styled_components.png" alt="styled_components" width="40" height="40"/> </a> 
 <a href="https://mui.com/" rel="noreferrer"> <img src="./logos/mui.png" alt="mui" width="40" height="40"/> </a> 
