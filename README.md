@@ -34,7 +34,7 @@ This is the place where I opensource stuff
 <a href="https://www.linux.org" rel="noreferrer"> <img src="./logos/linux.png" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-![Metrics](https://metrics.lecoq.io/esadakman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=Procfile&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=Jupyter%20Notebook%3APython&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FIstanbul&config.display=large)
+![Metrics](https://metrics.lecoq.io/esadakman?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.ignored=procfile&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.aliases=Jupyter%20Notebook%3APython&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FIstanbul)
 
 ---
 
@@ -75,7 +75,7 @@ This is the place where I opensource stuff
   </tr>
   
   <tr>
-    <td><a href="https://github.com/esadakman/starwars_parallax" >Star Wars Parallax </a></td>
+    <td><a href="https://github.com/esadakman/html-starwars-parallax" >Star Wars Parallax </a></td>
     <td><a href="https://github.com/esadakman/javascript-flag-app" >Flag-App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-task-tracker" >Task Tracker</a></td>
     <td><a href="https://github.com/esadakman/reactjs-youtube-clone" >Youtube Clone</a></td>
@@ -83,7 +83,7 @@ This is the place where I opensource stuff
   </tr>
   
   <tr>
-    <td><a href="https://github.com/esadakman/four_card_feature" >Four Card Project</a></td>
+    <td><a href="https://github.com/esadakman/html-four-card-feature" >Four Card Project</a></td>
     <td><a href="https://github.com/esadakman/javascript-random-user-generator" >Random User Generator</a></td>
     <td><a href="https://github.com/esadakman/reactjs-axios-router" >Axios-Router</a></td>
     <td><a href="https://github.com/esadakman/reactjs-api-tutorial" >API Tutorial </a></td>
