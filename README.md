@@ -75,4 +75,149 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
     <td><a href="https://github.com/esadakman/django-blog-app" >Django Blog</a></td>
   </tr>
   
-  <
+  <tr>
+    <td><a href="https://github.com/esadakman/html-sass-portfolio-project" >SASS Portfolio</a></td>
+    <td><a href="https://github.com/esadakman/jQuery-movie-info-app" >Movie Info (jQuery)</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-fireContact" >Contact App (Firebase)</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-personnel-app-frontend" >FS Personnel App (Frontend)</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-personnel-app-backend" >FS Personnel App (Backend)</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-starwars-parallax" >Star Wars Parallax </a></td>
+    <td><a href="https://github.com/esadakman/jQuery-github-finder" >Github Finder (jQuery)</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-task-tracker" >Task Tracker</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-recipe-app" >Recipe App</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-stock-app" >Stock App (DRF)</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-four-card-feature" >Four Card Project</a></td>
+    <td><a href="https://github.com/esadakman/jQuery-flag-app" >Flag App (jQuery) </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-axios-router" >Axios-Router</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-youtube-clone" >Youtube Clone</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-flight-app" >Flight App (DRF)</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-bootstrap-portfolio" >Bootstrap Portfolio</a></td> 
+    <td><a href="https://github.com/esadakman/javascript-todo-app" >Todo App</a></td> 
+    <td><a href="https://github.com/esadakman/reactjs-mui-example" >MUI Practise </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-api-tutorial" >API Tutorial </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-quiz-app" >Quiz App (DRF)</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-bootstrap-responsive-navbar"  rel="noreferrer">Bootstrap Responsive Navbar</a></td>
+    <td><a href="https://github.com/esadakman/javascript-github-searcher" >Github Finder</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-holidaysApp" >Holiday App</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-redux-todo" >Redux Todo</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-auth-todo" >Todo Auth</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-lukes-lightsaber"  rel="noreferrer">Luke's Lightsaber</a></td>
+    <td><a href="https://github.com/esadakman/javascript-flag-app" >Flag App</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-tour-places" >Tour Places</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-redux-crud" >Redux Crud</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-weather-app" >Weather App</a></td>
+  </tr>
+
+  <tr>  
+    <td><a href="https://github.com/esadakman/html-media-query-exercise" >Flexbox Media Query</a></td>
+    <td><a href="https://github.com/esadakman/javascript-random-user-generator" >Random User Generator</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-tour-project" >Tour with Fetch </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-github-finder" >Github Finder</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-todo-CBV" >Todo CBV</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-flex-grid-exercise" >Flex Grid Exercise</a></td>
+    <td><a href="https://github.com/esadakman/javascript-ios-calculator" >IOS Calculator</a></td> 
+    <td><a href="https://github.com/esadakman/reactjs-random-user" >Random User</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-tweet-generator" >Fake Tweet Generator</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django_todo" >Todo App</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-animated-navbar" >Animated Navbar</a></td> 
+    <td><a href="https://github.com/esadakman/javascript-guess-the-number" >Guess the Number </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-random-user-2" >Random-User 2</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-pizza-app" >Pizza App</a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-navbar-responsive" >Responsive Navbar (CSS)</a></td>
+    <td><a href="https://github.com/esadakman/javascript-shopping-cart" >Checkout Page</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-weather-app" >Weather App </a></td>
+    <td><a href="" > </a></td> 
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django-auth" >Django Auth</a></td> 
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-google-clone" >Google Clone</a></td> 
+    <td><a href="https://github.com/esadakman/javascript-digital-clock" >Digital Clock</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-stop-watch" >Stop Watch</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/django_crud_project" >Student Form</a></td> 
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-netflix-clone" >Netflix Clone</a></td>
+    <td><a href="https://github.com/esadakman/javascript-stop-watch" >Stopwatch</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-digital-clock" >Digital Clock</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/esadakman/html-css-tea-cup" >CSS Tea Cup</a></td> 
+    <td><a href="https://github.com/esadakman/javascript-interactive-rating"  rel="noreferrer">Interactive Rating</a></td> 
+    <td><a href="https://github.com/esadakman/reactjs-tabs-project" >Tabs Project</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/esadakman/html-survey-form" >Survey Form</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-reviews-project" >Reviews Project</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+  </tr>
+
+  <tr>
+    <td><a href="https://github.com/esadakman/html-voltran-page" >Voltran Project</a></td> 
+    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-lang-cards" >Language Cards</a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+    <td><a href="" > </a></td>
+  </tr>
+
+</table>
+</div>
+
+<!-- ---- -->
+<div align="center">
+
+## Now Playing <img src="./logos/spotify.png" align="center" valign="center" width="30" height="30">
+
+[![Spotify](https://spotify-now-playing-esadakman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/215d3sm5u7debtsq4sywdrvwa)
+
+</div>
