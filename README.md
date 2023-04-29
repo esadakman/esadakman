@@ -2,7 +2,9 @@
 
 This is the place where I opensource stuff <a href="https://www.linkedin.com/in/esadakman/" target="_blank" rel="noreferrer"> <img  src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=Linkedin&logoColor=blue" alt="Linkedin" height="30" align="right" valign="center" /> </a>
 
-- 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/>
+<!-- - 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/> -->
+
+- 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/>
 - 🤔 My interest lies in front-end web development and back-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
