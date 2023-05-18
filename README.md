@@ -72,7 +72,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
     <td><a href="https://github.com/esadakman/jquery-todo-app" >Todo App (jQuery)</a></td>
     <td><a href="https://github.com/esadakman/reactjs-movie-app" >Movie App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-fireblog" >Blog App (Firebase)</a></td> 
-    <td><a href="https://github.com/esadakman/nextjs-photography-app" >Photography App
+    <td><a href="https://github.com/esadakman/nextjs-amazon-clone" >Photography App
 </a></td>
     <td><a href="https://github.com/esadakman/django-blog-app" >Django Blog</a></td>
   </tr>
@@ -82,7 +82,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
     <td><a href="https://github.com/esadakman/jQuery-movie-info-app" >Movie Info (jQuery)</a></td>
     <td><a href="https://github.com/esadakman/reactjs-fireContact" >Contact App (Firebase)</a></td>
     <td><a href="https://github.com/esadakman/reactjs-personnel-app-frontend" >FS Personnel App (Frontend)</a></td>
-    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/nextjs-amazon-clone" >Amazon Clone</a></td>
     <td><a href="https://github.com/esadakman/django-personnel-app-backend" >FS Personnel App (Backend)</a></td>
   </tr>
   
@@ -153,7 +153,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
     <td><a href="https://github.com/esadakman/html-animated-navbar" >Animated Navbar</a></td> 
     <td><a href="https://github.com/esadakman/javascript-guess-the-number" >Guess the Number </a></td>
     <td><a href="https://github.com/esadakman/reactjs-random-user-2" >Random-User 2</a></td>
-    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/reactjs-no-code-lead-generation" >No Code Lead Generation</a></td>
     <td><a href="" > </a></td>
     <td><a href="https://github.com/esadakman/django-pizza-app" >Pizza App</a></td>
   </tr>
