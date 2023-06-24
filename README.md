@@ -215,7 +215,6 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 </table>
 </div>
 
-<!-- ---- -->
 <div align="center">
 
 ## Now Playing <img src="./logos/spotify.png" align="center" valign="center" width="30" height="30">
