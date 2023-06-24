@@ -114,7 +114,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   </tr>
   
   <tr>
-    <td><a href="https://github.com/esadakman/html-bootstrap-responsive-navbar"  rel="noreferrer">Bootstrap Responsive Navbar</a></td>
+    <td><a href="https://github.com/esadakman/html-bootstrap-responsive-navbar">Bootstrap Responsive Navbar</a></td>
     <td><a href="https://github.com/esadakman/javascript-github-searcher" >Github Finder</a></td>
     <td><a href="https://github.com/esadakman/reactjs-holidaysApp" >Holiday App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-redux-todo" >Redux Todo</a></td>
@@ -123,7 +123,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   </tr>
   
   <tr>
-    <td><a href="https://github.com/esadakman/html-lukes-lightsaber"  rel="noreferrer">Luke's Lightsaber</a></td>
+    <td><a href="https://github.com/esadakman/html-lukes-lightsaber">Luke's Lightsaber</a></td>
     <td><a href="https://github.com/esadakman/javascript-flag-app" >Flag App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-tour-places" >Tour Places</a></td>
     <td><a href="https://github.com/esadakman/reactjs-redux-crud" >Redux Crud</a></td>
