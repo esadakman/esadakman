@@ -4,7 +4,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 
 <!-- - 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/> -->
 
-- 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/>
+- 👨🏽‍💻 I’m currently learning NextJS &nbsp;<img  src="./logos/nextjs.png" alt="jQuery" height="20"/>
 - 🤔 My interest lies in front-end web development and back-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
@@ -124,7 +124,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-lukes-lightsaber">Luke's Lightsaber</a></td>
-    <td><a href="https://github.com/esadakman/javascript-flag-app" >Flag App</a></td>
+    <td><a href="https://github.com/esadakman/javascript-infinite-scroll">Infinite Scroll </a></td>
     <td><a href="https://github.com/esadakman/reactjs-tour-places" >Tour Places</a></td>
     <td><a href="https://github.com/esadakman/reactjs-redux-crud" >Redux Crud</a></td>
     <td><a href="" > </a></td>
@@ -133,7 +133,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 
   <tr>  
     <td><a href="https://github.com/esadakman/html-media-query-exercise" >Flexbox Media Query</a></td>
-    <td><a href="https://github.com/esadakman/javascript-random-user-generator" >Random User Generator</a></td>
+    <td><a href="https://github.com/esadakman/javascript-flag-app" >Flag App</a></td>
     <td><a href="https://github.com/esadakman/reactjs-tour-project" >Tour with Fetch </a></td>
     <td><a href="https://github.com/esadakman/reactjs-github-finder" >Github Finder</a></td>
     <td><a href="" > </a></td>
@@ -142,7 +142,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-flex-grid-exercise" >Flex Grid Exercise</a></td>
-    <td><a href="https://github.com/esadakman/javascript-ios-calculator" >IOS Calculator</a></td> 
+    <td><a href="https://github.com/esadakman/javascript-random-user-generator" >Random User Generator</a></td>
     <td><a href="https://github.com/esadakman/reactjs-random-user" >Random User</a></td>
     <td><a href="https://github.com/esadakman/reactjs-tweet-generator" >Fake Tweet Generator</a></td>
     <td><a href="" > </a></td>
@@ -151,7 +151,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-animated-navbar" >Animated Navbar</a></td> 
-    <td><a href="https://github.com/esadakman/javascript-guess-the-number" >Guess the Number </a></td>
+    <td><a href="https://github.com/esadakman/javascript-ios-calculator" >IOS Calculator</a></td> 
     <td><a href="https://github.com/esadakman/reactjs-random-user-2" >Random-User 2</a></td>
     <td><a href="https://github.com/esadakman/reactjs-no-code-lead-generation" >No Code Lead Generation</a></td>
     <td><a href="" > </a></td>
@@ -160,7 +160,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-navbar-responsive" >Responsive Navbar (CSS)</a></td>
-    <td><a href="https://github.com/esadakman/javascript-shopping-cart" >Checkout Page</a></td>
+    <td><a href="https://github.com/esadakman/javascript-guess-the-number" >Guess the Number </a></td>
     <td><a href="https://github.com/esadakman/reactjs-weather-app" >Weather App </a></td>
     <td><a href="" > </a></td> 
     <td><a href="" > </a></td>
@@ -169,7 +169,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-google-clone" >Google Clone</a></td> 
-    <td><a href="https://github.com/esadakman/javascript-digital-clock" >Digital Clock</a></td>
+    <td><a href="https://github.com/esadakman/javascript-shopping-cart" >Checkout Page</a></td>
     <td><a href="https://github.com/esadakman/reactjs-stop-watch" >Stop Watch</a></td>
     <td><a href="" > </a></td>
     <td><a href="" > </a></td>
@@ -178,7 +178,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-netflix-clone" >Netflix Clone</a></td>
-    <td><a href="https://github.com/esadakman/javascript-stop-watch" >Stopwatch</a></td>
+    <td><a href="https://github.com/esadakman/javascript-digital-clock" >Digital Clock</a></td>
     <td><a href="https://github.com/esadakman/reactjs-digital-clock" >Digital Clock</a></td>
     <td><a href="" > </a></td>
     <td><a href="" > </a></td>
@@ -187,7 +187,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   
   <tr>
     <td><a href="https://github.com/esadakman/html-css-tea-cup" >CSS Tea Cup</a></td> 
-    <td><a href="https://github.com/esadakman/javascript-interactive-rating"  rel="noreferrer">Interactive Rating</a></td> 
+    <td><a href="https://github.com/esadakman/javascript-stop-watch" >Stopwatch</a></td>
     <td><a href="https://github.com/esadakman/reactjs-tabs-project" >Tabs Project</a></td>
     <td><a href="" > </a></td>
     <td><a href="" > </a></td>
@@ -196,7 +196,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 
   <tr>
     <td><a href="https://github.com/esadakman/html-survey-form" >Survey Form</a></td>
-    <td><a href="" > </a></td>
+    <td><a href="https://github.com/esadakman/javascript-interactive-rating"  rel="noreferrer">Interactive Rating</a></td> 
     <td><a href="https://github.com/esadakman/reactjs-reviews-project" >Reviews Project</a></td>
     <td><a href="" > </a></td>
     <td><a href="" > </a></td>
