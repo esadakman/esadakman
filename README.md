@@ -4,7 +4,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 
 <!-- - 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/> -->
 
-- 👨🏽‍💻 I’m currently learning NextJS &nbsp;<img  src="./logos/nextjs.png" alt="jQuery" height="20"/>
+<!-- - 👨🏽‍💻 I’m currently learning NextJS &nbsp;<img  src="./logos/nextjs.png" alt="jQuery" height="20"/> -->
 - 🤔 My interest lies in front-end web development and back-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
@@ -89,8 +89,8 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
   <tr>
     <td><a href="https://github.com/esadakman/html-starwars-parallax" >Star Wars Parallax </a></td>
     <td><a href="https://github.com/esadakman/jQuery-github-finder" >Github Finder (jQuery)</a></td>
-    <td><a href="https://github.com/esadakman/reactjs-task-tracker" >Task Tracker</a></td>
-    <td><a href="https://github.com/esadakman/reactjs-recipe-app" >Recipe App</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-youtube-clone" >Youtube Clone</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-ai-summarizer" >AI Summarizer</a></td>
     <td><a href="" > </a></td>
     <td><a href="https://github.com/esadakman/django-stock-app" >Stock App (DRF)</a></td>
   </tr>
@@ -99,7 +99,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
     <td><a href="https://github.com/esadakman/html-four-card-feature" >Four Card Project</a></td>
     <td><a href="https://github.com/esadakman/jQuery-flag-app" >Flag App (jQuery) </a></td>
     <td><a href="https://github.com/esadakman/reactjs-axios-router" >Axios-Router</a></td>
-    <td><a href="https://github.com/esadakman/reactjs-youtube-clone" >Youtube Clone</a></td>
+    <td><a href="https://github.com/esadakman/reactjs-recipe-app" >Recipe App</a></td>
     <td><a href="" > </a></td>
     <td><a href="https://github.com/esadakman/django-flight-app" >Flight App (DRF)</a></td>
   </tr>
@@ -162,7 +162,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
     <td><a href="https://github.com/esadakman/html-navbar-responsive" >Responsive Navbar (CSS)</a></td>
     <td><a href="https://github.com/esadakman/javascript-guess-the-number" >Guess the Number </a></td>
     <td><a href="https://github.com/esadakman/reactjs-weather-app" >Weather App </a></td>
-    <td><a href="" > </a></td> 
+    <td><a href="https://github.com/esadakman/reactjs-task-tracker" >Task Tracker</a></td>
     <td><a href="" > </a></td>
     <td><a href="https://github.com/esadakman/django-auth" >Django Auth</a></td> 
   </tr>
