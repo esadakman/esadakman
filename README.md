@@ -33,11 +33,11 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-276DC3?style=flat&logo=SQLite&color=05122A " alt="slack" height="25"/></a>  
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-276DC3?style=flat&logo=Postman&color=05122A" alt="Postman" height="25"/></a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-276DC3?style=flat&logo=Git&color=05122A" alt="git" height="25"/></a>   
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Github-276DC3?style=flat&logo=GITHUB&color=05122A" alt="gitHub" height="25"/></a>   
-<a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gitlab-276DC3?style=flat&logo=Gitlab&color=05122A" alt="gitlab" height="25"/></a>   
+<!-- <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Github-276DC3?style=flat&logo=GITHUB&color=05122A" alt="gitHub" height="25"/></a>    -->
+<!-- <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gitlab-276DC3?style=flat&logo=Gitlab&color=05122A" alt="gitlab" height="25"/></a>   
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=blue&color=05122A" alt="visualstudio" height="25"/></a>   
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jira-276DC3?style=flat&logo=Jira&logoColor=blue&color=05122A" alt="linux" height="25"/></a> 
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-276DC3?style=flat&logo=Linux&logoColor=white&color=05122A" alt="linux" height="25"/></a> 
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-276DC3?style=flat&logo=Linux&logoColor=white&color=05122A" alt="linux" height="25"/></a>  -->
 </p>
 
 <!-- <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-276DC3?style=flat&logo=PostgreSQL&color=05122A" alt="slack" height="25"/></a>   -->
