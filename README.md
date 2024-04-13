@@ -9,7 +9,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
 
-- ⚡ &nbsp;Fun fact: I :heart: Star Wars and PC Gaming
+- ⚡ Fun fact: I :heart: Star Wars and PC Gaming
 
 ### <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
 
