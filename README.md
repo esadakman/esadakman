@@ -8,7 +8,6 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 - 🤔 My interest lies in front-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
-
 - ⚡ Fun fact: I :heart: Star Wars and PC Gaming
 
 ### <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools&nbsp;&nbsp;🚀</b>
