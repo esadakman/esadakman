@@ -5,6 +5,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <!-- - 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/> -->
 
 <!-- - 👨🏽‍💻 I’m currently learning NextJS &nbsp;<img  src="./logos/nextjs.png" alt="jQuery" height="20"/> -->
+- 👨🏽‍💻 I’m currently learning <img  src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=TypeScript" alt="TypeScript" height="25"/>
 - 🤔 My interest lies in front-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
@@ -17,7 +18,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/React-276DC3?style=flat&logo=React&color=05122A" alt="react" height="25"/> </a> 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/Redux-276DC3?style=flat&logo=Redux&logoColor=764ABC&color=05122A" alt="react" height="25"/> </a> 
-<a href="https://www.nextjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/%20NextJS-05122A.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAQAAAAngNWGAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAHdElNRQfnAQsTMTY6c6ApAAABbUlEQVQoz32Tv0tcURCFvzxdlRBESRcNYhuCJGAfAjY22oiFirGxSQg2IV3stogkUYP6R4hWNklsFG1EEGFJehsxEM2yza4/9n0p9r3rW3bjuc0c5twz3Jm5gOnp9a3bnlmx7KnffO2jWgYIsjanPfLaLK49dMJcIhax00UrNkPZBR+kwnaX/D9iF8zVhDNeehfKTgj2eZy5fYuSpRAf2hMxxtPas6jyiVXihH3mIymeMdrKCC1B+IMDnvASgBOqQdjKaBT8AHK0kOcPABH3MpmBiO4MjZlCvtKI7qiOxvQyzwY7QFznSEQxwyTmBWPkKdJD1qQY8bOhzBywwjTPQwegELEVqFQReMgH1vnNTCh+wxb2W0jaeuMXvydx3mH/hoYf+Rhx1quGsZUcN5/EFV/VZt3hapMJ/3LIfVUXbU/XrMu1Jq6bTnrqsp23+4gdzlqwWie88o2D3g9bHr5Cv+/d88LY2HN3fWdfmoN/1/epqR3v2hMAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjMtMDEtMTFUMTk6NDk6NTArMDA6MDDVfqyKAAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIzLTAxLTExVDE5OjQ5OjUwKzAwOjAwpCMUNgAAAABJRU5ErkJggg==" alt="nextjs" height="25"/></a> 
+<a href="https://www.nextjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=Next.js" alt="nextjs" height="25"/></a>
 <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-276DC3?style=flat&logo=HTML5&color=05122A" alt="html5" height="25"/></a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-276DC3?style=flat&logo=CSS3&logoColor=blue&color=05122A" alt="css3" height="25"/></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img  src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="django"   height="25"/></a>  
