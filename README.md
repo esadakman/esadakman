@@ -5,7 +5,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <!-- - 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/> -->
 
 <!-- - 👨🏽‍💻 I’m currently learning NextJS &nbsp;<img  src="./logos/nextjs.png" alt="jQuery" height="20"/> -->
-- 👨🏽‍💻 I’m currently learning <img  src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=TypeScript" alt="TypeScript" height="25" style="margin-bottom:-5px"/>
+<!-- - 👨🏽‍💻 I’m currently learning <img  src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=TypeScript" alt="TypeScript" height="25" style="margin-bottom:-5px"/> -->
 - 🤔 My interest lies in front-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
