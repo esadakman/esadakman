@@ -5,7 +5,7 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <!-- - 👨🏽‍💻 I’m currently learning jQuery &nbsp;<img  src="https://img.shields.io/badge/-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/> and NextJS &nbsp;<img  src="./logos/nextjs.png" alt="django" width="20" height="20"/> -->
 
 <!-- - 👨🏽‍💻 I’m currently learning NextJS &nbsp;<img  src="./logos/nextjs.png" alt="jQuery" height="20"/> -->
-<!-- - 👨🏽‍💻 I’m currently learning <img  src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=TypeScript" alt="TypeScript" height="25" style="margin-bottom:-5px"/> -->
+- 👨🏽‍💻 I’m currently working with <img  src="https://img.shields.io/badge/TypeScript-05122A?style=flat&logo=TypeScript" alt="TypeScript" height="25" style="margin-bottom:-5px"/> and <img  src="https://img.shields.io/badge/React-05122A?style=flat&logo=React" alt="React" height="25" style="margin-bottom:-5px"/>
 - 🤔 My interest lies in front-end web development.
 - 📫 Ask me about anything from: [esadd26@gmail.com](mailto:esadd26@gmail.com), I love to answer!
 - 🌐 You can see my personal website through [here](https://esadakman.github.io/) 👈
@@ -15,9 +15,12 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 
 <p >    
 <a href="https://welcome.js.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript&logoColor=yellow" alt="javascript" height="25"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=blue" alt="typescript" height="25"/></a>
 <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery&logoColor=yellow" alt="jQuery" height="25"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/React-276DC3?style=flat&logo=React&color=05122A" alt="react" height="25"/> </a> 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/Redux-276DC3?style=flat&logo=Redux&logoColor=764ABC&color=05122A" alt="react" height="25"/> </a> 
+<a href="https://redux-toolkit.js.org/rtk-query/overview" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/RTK Query-276DC3?style=flat&logo=Redux&logoColor=764ABC&color=05122A" alt="rtk query" height="25"/> </a> 
+<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img  src="https://img.shields.io/badge/Node.js-276DC3?style=flat&logo=Node.js&logoColor=339933&color=05122A" alt="nodejs" height="25"/> </a> 
 <a href="https://www.nextjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-05122A?style=flat&logo=Next.js" alt="nextjs" height="25"/></a>
 <a href="https://html.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-276DC3?style=flat&logo=HTML5&color=05122A" alt="html5" height="25"/></a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS3-276DC3?style=flat&logo=CSS3&logoColor=blue&color=05122A" alt="css3" height="25"/></a> 
@@ -33,6 +36,8 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-276DC3?style=flat&logo=SQLite&color=05122A " alt="slack" height="25"/></a>  
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-276DC3?style=flat&logo=Postman&color=05122A" alt="Postman" height="25"/></a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-276DC3?style=flat&logo=Git&color=05122A" alt="git" height="25"/></a>   
+<a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Claude Code-276DC3?style=flat&logo=Anthropic&logoColor=D97757&color=05122A" alt="claude code" height="25"/></a>   
+<a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cursor-276DC3?style=flat&logo=Cursor&logoColor=white&color=05122A" alt="cursor" height="25"/></a>   
 <!-- <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Github-276DC3?style=flat&logo=GITHUB&color=05122A" alt="gitHub" height="25"/></a>    -->
 <!-- <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gitlab-276DC3?style=flat&logo=Gitlab&color=05122A" alt="gitlab" height="25"/></a>   
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=blue&color=05122A" alt="visualstudio" height="25"/></a>   
