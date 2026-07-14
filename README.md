@@ -33,11 +33,11 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 <a href="https://styled-components.com/" rel="noreferrer"> <img src="https://img.shields.io/badge/Styled Components-276DC3?style=flat&logo=StyledComponents&color=05122A" alt="styled_components" height="25"/></a> 
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-276DC3?style=flat&logo=MUI&color=05122A" alt="mui" height="25"/></a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-276DC3?style=flat&logo=Firebase&color=05122A" alt="mui" height="25"/></a> 
+<a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Claude Code-276DC3?style=flat&logo=Anthropic&logoColor=D97757&color=05122A" alt="claude code" height="25"/></a>   
+<a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cursor-276DC3?style=flat&logo=Cursor&logoColor=white&color=05122A" alt="cursor" height="25"/></a>   
 <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-276DC3?style=flat&logo=SQLite&color=05122A " alt="slack" height="25"/></a>  
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-276DC3?style=flat&logo=Postman&color=05122A" alt="Postman" height="25"/></a> 
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-276DC3?style=flat&logo=Git&color=05122A" alt="git" height="25"/></a>   
-<a href="https://claude.com/claude-code" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Claude Code-276DC3?style=flat&logo=Anthropic&logoColor=D97757&color=05122A" alt="claude code" height="25"/></a>   
-<a href="https://cursor.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Cursor-276DC3?style=flat&logo=Cursor&logoColor=white&color=05122A" alt="cursor" height="25"/></a>   
 <!-- <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Github-276DC3?style=flat&logo=GITHUB&color=05122A" alt="gitHub" height="25"/></a>    -->
 <!-- <a href="https://gitlab.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gitlab-276DC3?style=flat&logo=Gitlab&color=05122A" alt="gitlab" height="25"/></a>   
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=blue&color=05122A" alt="visualstudio" height="25"/></a>   
