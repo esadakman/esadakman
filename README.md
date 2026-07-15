@@ -234,3 +234,5 @@ This is the place where I opensource stuff <a href="https://www.linkedin.com/in/
 [![Spotify](https://spotify-now-playing-esadakman.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/215d3sm5u7debtsq4sywdrvwa)
 
 </div>
+
+<!-- updated 2026-07-15 -->
